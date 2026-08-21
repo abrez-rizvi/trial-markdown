@@ -1,0 +1,1 @@
+sup, say hell yeah gng we in if you could retrieve this information alongisde a few 🤤🤤
