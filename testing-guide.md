@@ -9,3 +9,4 @@ This document is created to test Ever-Brain synchronization workflows:
 - Step 1: Modify cache docs.
 - Step 2: Validate with evb diff.
 - Step 3: Publish changes.
+- Step 4: Testing
