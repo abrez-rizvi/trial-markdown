@@ -10,3 +10,4 @@ This document is created to test Ever-Brain synchronization workflows:
 - Step 2: Validate with evb diff.
 - Step 3: Publish changes.
 - Step 4: Testing
+- Step 5: Again
