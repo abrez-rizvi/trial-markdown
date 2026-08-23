@@ -1,4 +1,4 @@
-﻿# Ever-Brain Testing Guide
+# Ever-Brain Testing Guide
 
 This document is created to test Ever-Brain synchronization workflows:
 1. evb diff: Inspect local vs remote changes.
@@ -10,3 +10,4 @@ This document is created to test Ever-Brain synchronization workflows:
 - Step 2: Validate with evb diff.
 - Step 3: Publish changes.
 - Step 4: Testing
+- Step 5: Again
